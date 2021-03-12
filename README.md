@@ -16,7 +16,7 @@ contact@rm-notifier.com
 
 In this section I would just like to clear up some things that might be confusing for new users.
 
-## Initial setup
+## Subscriptions & Initial setup
 Upon opening the app for the first time, you will be greeted with a text similar to the description on this page.
 After that you'll be greeted by a list of streams to choose from. These are all of the moderated RauteMusik channels you may subscribe to.
 Once you confirm this dialog you'll be greeted with all the DJs that are currently in my database. 
@@ -25,6 +25,11 @@ Due to the high number of DJs, this dialogue contains a filter function for conv
 If you are not interested in subscribing to either category, you may confirm a dialog with an empty selection.
 But please do keep in mind that selecting neither >=1 stream OR DJ will render the app completely useless.
 Of course all of your subscriptions can be edited later.
+
+If you subscribe to a stream, you will subscribe to every show on this stream, regardless of the DJ.
+If you subscribe to a DJ, you will subscribe to every show by this DJ, regardless of stream.
+
+Technically speaking you could say that your DJ and stream subscriptions are (inclusive) OR connected.
 
 ## Upcoming & Live shows
 After the initial setup is complete, you will be greeted with buttons to edit your Stream and DJ selections as well as two tabs `Live` and `Upcoming`.
