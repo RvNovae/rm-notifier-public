@@ -29,7 +29,7 @@ Of course all of your subscriptions can be edited later.
 If you subscribe to a stream, you will subscribe to every show on this stream, regardless of the DJ.
 If you subscribe to a DJ, you will subscribe to every show by this DJ, regardless of stream.
 
-Technically speaking you could say that your DJ and stream subscriptions are (inclusive) OR connected.
+> Technically speaking you could say that your DJ and stream subscriptions are (inclusive) OR connected.
 
 ## Upcoming & Live shows
 After the initial setup is complete, you will be greeted with buttons to edit your Stream and DJ selections as well as two tabs `Live` and `Upcoming`.
