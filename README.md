@@ -45,4 +45,14 @@ So if you can't find a DJ, they might not have played any shows after I created 
 Unfortunately I currently do not have an automatic way of removing DJs that left RauteMusik.
 If you come across any "orphaned DJs", feel free to contact us or open an issue! (contact@rm-notifier.com)
 
-## ...
+## Notifications
+By far the most important aspect of the RM-Notifier are the notifications.
+A notification gets sent as soon as a show starts. 
+The app then receives a Push Notification. 
+This type of message is sent from a server directly to the app on your phone.
+
+## Technical detalis
+Here are some technical details for the curious:
+
+* app and server software are both written in Kotlin
+* server software is a Spring Boot Application running in the cloud
