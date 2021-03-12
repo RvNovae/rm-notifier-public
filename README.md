@@ -56,3 +56,4 @@ Here are some technical details for the curious:
 
 * app and server software are both written in Kotlin
 * server software is a Spring Boot Application running in the cloud
+* subscriptions & notifications are handled through Firebase Cloud Messaging
