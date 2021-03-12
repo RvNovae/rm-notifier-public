@@ -51,7 +51,7 @@ A notification gets sent as soon as a show starts.
 The app then receives a Push Notification. 
 This type of message is sent from a server directly to the app on your phone.
 
-## Technical detalis
+## Technical details
 Here are some technical details for the curious:
 
 * app and server software are both written in Kotlin
