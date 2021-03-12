@@ -30,7 +30,19 @@ Of course all of your subscriptions can be edited later.
 After the initial setup is complete, you will be greeted with buttons to edit your Stream and DJ selections as well as two tabs `Live` and `Upcoming`.
 The `Live` tab will display all shows that are currently live (based on your subscriptions).
 The `Upcoming` tab will display the next 7 days worth of shows, based on your selection.
-Due to technical limitations the information in the `upcoming` tab may be out of date by ~(x * 3min) (x being the number of moderated RauteMusik streams.
-At the time of writing this delay amounts to about 69 minutes of potential delay.
+Due to some technical limitations the information in the `upcoming` tab may be out of date by ~(x * 3min) (x being the number of moderated RauteMusik streams.
+At the time of writing this amounts to about 69 minutes of potential delay. 
 
-# ...
+## Syncing
+Sometimes new streams emerge and even more often than that, new DJs join or leave the platform.
+In order to present you the most up to date information, the app will automatically synchronise with the server every 7 days (when opened). 
+If you would like to trigger a sync manually, you may use the Sync button at the top. 
+
+On the serverside streams are synchronised every 7 days with the RauteMusik database.
+DJs are being added to my database, the first time they appear in a schedule or live show. 
+So if you can't find a DJ, they might not have played any shows after I created my database. 
+
+Unfortunately I currently do not have an automatic way of removing DJs that left RauteMusik.
+If you come across any "orphaned DJs", feel free to contact us or open an issue! (contact@rm-notifier.com)
+
+## ...
