@@ -47,8 +47,7 @@ On the serverside streams are synchronised every 7 days with the RauteMusik data
 DJs are being added to my database, the first time they appear in a schedule or live show. 
 So if you can't find a DJ, they might not have played any shows after I created my database. 
 
-Unfortunately I currently do not have an automatic way of removing DJs that left RauteMusik.
-If you come across any "orphaned DJs", feel free to contact us or open an issue! (contact@rm-notifier.com)
+DJs are synced every Monday morning.
 
 ## Notifications
 By far the most important aspect of the RM-Notifier are the notifications.
