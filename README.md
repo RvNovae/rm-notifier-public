@@ -44,9 +44,6 @@ In order to present you the most up to date information, the app will automatica
 If you would like to trigger a sync manually, you may use the Sync button at the top. 
 
 On the serverside streams are synchronised every 7 days with the RauteMusik database.
-DJs are being added to my database, the first time they appear in a schedule or live show. 
-So if you can't find a DJ, they might not have played any shows after I created my database. 
-
 DJs are synced every Monday morning.
 
 ## Notifications
