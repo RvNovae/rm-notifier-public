@@ -16,7 +16,7 @@ The app does use third-party services that may collect information used to ident
 
 Link to the privacy policy of third-party service providers used by the app
 
-*   [Firebase]([https://www.google.com/policies/privacy](https://firebase.google.com/support/privacy/)/)
+*   [Firebase](https://firebase.google.com/support/privacy/)
 
 **Log Data**
 
